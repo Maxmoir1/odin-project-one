@@ -99,3 +99,39 @@ img {
     border: 3px solid#3882F6;
     border-radius: 15px;
 }
+
+.testimonial-container{
+    background-color:#E5E7EB ;
+}
+
+.p-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis: 500px;
+    align-items: center;
+    border: none;
+    height: 500px;
+    background-color: #E5E7EB;
+    margin: auto;
+    max-width: 1000px;
+    padding-top: 30px;
+}
+
+.big{
+    margin-top: 0;
+    font-size: 60px;
+    color:rgb(84, 84,84,1);
+    font-weight: lighter;
+}
+
+.author{
+    font-size: 40px;
+    font-weight:lighter;
+    margin-top: 0;
+    color: rgb(47, 47,47,1);
+}
+
+
+
+
